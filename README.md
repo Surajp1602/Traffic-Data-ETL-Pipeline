@@ -1,3 +1,6 @@
+<img width="1016" height="787" alt="Dashboard3" src="https://github.com/user-attachments/assets/70123345-6fa3-4abb-b8ed-9fab90555559" />
+<img width="1110" height="820" alt="Dashboard2" src="https://github.com/user-attachments/assets/f26d1c01-0ec0-4680-bffb-ff9c1cfc170d" />
+<img width="1600" height="758" alt="Dashboard1" src="https://github.com/user-attachments/assets/d0999a80-8841-4bde-95c5-8f119dc6e92a" />
 # Real-Time Traffic Data ETL Pipeline
 
 ## Project Overview
