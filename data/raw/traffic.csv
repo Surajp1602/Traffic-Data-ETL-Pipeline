@@ -1,0 +1,601 @@
+timestamp,location,vehicle_count,avg_speed,weather,road_condition
+2025-06-01 00:00:00,Viman Nagar,83,31,Cloudy,Wet
+2025-06-01 01:00:00,Kothrud,99,35,Sunny,Wet
+2025-06-01 02:00:00,Wakad,164,48,Sunny,Good
+2025-06-01 03:00:00,Viman Nagar,158,62,Cloudy,Wet
+2025-06-01 04:00:00,Pune Station,123,36,Sunny,Moderate
+2025-06-01 05:00:00,Aundh,109,60,Cloudy,Good
+2025-06-01 06:00:00,Baner,56,58,Cloudy,Moderate
+2025-06-01 07:00:00,Hinjewadi,152,20,Rainy,Wet
+2025-06-01 08:00:00,Viman Nagar,285,20,Sunny,Moderate
+2025-06-01 09:00:00,Hinjewadi,183,26,Cloudy,Good
+2025-06-01 10:00:00,Pune Station,286,20,Cloudy,Moderate
+2025-06-01 11:00:00,Shivaji Nagar,121,52,Rainy,Wet
+2025-06-01 12:00:00,Kothrud,175,60,Rainy,Wet
+2025-06-01 13:00:00,Kothrud,130,33,Cloudy,Moderate
+2025-06-01 14:00:00,Wakad,76,43,Rainy,Moderate
+2025-06-01 15:00:00,Viman Nagar,126,41,Rainy,Moderate
+2025-06-01 16:00:00,Hadapsar,68,57,Cloudy,Good
+2025-06-01 17:00:00,Hadapsar,296,26,Cloudy,Moderate
+2025-06-01 18:00:00,Aundh,179,18,Cloudy,Moderate
+2025-06-01 19:00:00,Baner,190,31,Rainy,Good
+2025-06-01 20:00:00,Pune Station,167,15,Cloudy,Good
+2025-06-01 21:00:00,Kothrud,157,64,Cloudy,Good
+2025-06-01 22:00:00,Hinjewadi,118,63,Sunny,Moderate
+2025-06-01 23:00:00,Wakad,158,64,Sunny,Good
+2025-06-02 00:00:00,Aundh,116,48,Rainy,Moderate
+2025-06-02 01:00:00,Wakad,62,34,Sunny,Wet
+2025-06-02 02:00:00,Aundh,139,64,Sunny,Wet
+2025-06-02 03:00:00,Baner,62,31,Rainy,Moderate
+2025-06-02 04:00:00,Hinjewadi,67,30,Cloudy,Good
+2025-06-02 05:00:00,Shivaji Nagar,164,31,Sunny,Wet
+2025-06-02 06:00:00,Aundh,61,42,Sunny,Moderate
+2025-06-02 07:00:00,Wakad,214,35,Sunny,Wet
+2025-06-02 08:00:00,Viman Nagar,154,22,Sunny,Wet
+2025-06-02 09:00:00,Viman Nagar,302,27,Cloudy,Moderate
+2025-06-02 10:00:00,Swargate,224,21,Sunny,Wet
+2025-06-02 11:00:00,Wakad,139,59,Cloudy,Moderate
+2025-06-02 12:00:00,Aundh,168,61,Cloudy,Wet
+2025-06-02 13:00:00,Pune Station,134,48,Cloudy,Wet
+2025-06-02 14:00:00,Viman Nagar,105,44,Cloudy,Moderate
+2025-06-02 15:00:00,Baner,156,61,Sunny,Good
+2025-06-02 16:00:00,Viman Nagar,107,53,Cloudy,Moderate
+2025-06-02 17:00:00,Wakad,299,28,Rainy,Good
+2025-06-02 18:00:00,Pune Station,184,18,Sunny,Good
+2025-06-02 19:00:00,Pune Station,233,29,Cloudy,Wet
+2025-06-02 20:00:00,Swargate,281,21,Rainy,Wet
+2025-06-02 21:00:00,Hinjewadi,82,56,Cloudy,Wet
+2025-06-02 22:00:00,Shivaji Nagar,154,44,Rainy,Moderate
+2025-06-02 23:00:00,Shivaji Nagar,127,43,Rainy,Moderate
+2025-06-03 00:00:00,Pune Station,88,53,Cloudy,Good
+2025-06-03 01:00:00,Viman Nagar,150,58,Cloudy,Wet
+2025-06-03 02:00:00,Baner,97,53,Sunny,Wet
+2025-06-03 03:00:00,Viman Nagar,108,57,Cloudy,Good
+2025-06-03 04:00:00,Hadapsar,77,57,Cloudy,Good
+2025-06-03 05:00:00,Viman Nagar,58,64,Sunny,Moderate
+2025-06-03 06:00:00,Swargate,85,43,Rainy,Good
+2025-06-03 07:00:00,Hadapsar,278,26,Cloudy,Moderate
+2025-06-03 08:00:00,Hadapsar,308,32,Rainy,Wet
+2025-06-03 09:00:00,Viman Nagar,251,25,Sunny,Wet
+2025-06-03 10:00:00,Wakad,153,31,Sunny,Moderate
+2025-06-03 11:00:00,Viman Nagar,142,45,Sunny,Good
+2025-06-03 12:00:00,Aundh,112,59,Sunny,Wet
+2025-06-03 13:00:00,Wakad,84,36,Cloudy,Good
+2025-06-03 14:00:00,Aundh,115,31,Cloudy,Good
+2025-06-03 15:00:00,Hinjewadi,57,53,Sunny,Moderate
+2025-06-03 16:00:00,Kothrud,123,37,Sunny,Good
+2025-06-03 17:00:00,Swargate,306,18,Sunny,Moderate
+2025-06-03 18:00:00,Hinjewadi,236,34,Cloudy,Moderate
+2025-06-03 19:00:00,Aundh,291,35,Sunny,Good
+2025-06-03 20:00:00,Hadapsar,315,18,Cloudy,Good
+2025-06-03 21:00:00,Aundh,124,37,Sunny,Moderate
+2025-06-03 22:00:00,Shivaji Nagar,50,51,Rainy,Good
+2025-06-03 23:00:00,Aundh,136,41,Cloudy,Moderate
+2025-06-04 00:00:00,Baner,84,48,Rainy,Wet
+2025-06-04 01:00:00,Kothrud,172,45,Cloudy,Moderate
+2025-06-04 02:00:00,Pune Station,70,55,Cloudy,Moderate
+2025-06-04 03:00:00,Swargate,84,36,Rainy,Wet
+2025-06-04 04:00:00,Wakad,110,43,Rainy,Moderate
+2025-06-04 05:00:00,Wakad,155,64,Cloudy,Wet
+2025-06-04 06:00:00,Pune Station,79,54,Cloudy,Wet
+2025-06-04 07:00:00,Viman Nagar,320,26,Cloudy,Good
+2025-06-04 08:00:00,Wakad,307,30,Cloudy,Good
+2025-06-04 09:00:00,Baner,204,28,Cloudy,Moderate
+2025-06-04 10:00:00,Wakad,158,20,Rainy,Moderate
+2025-06-04 11:00:00,Shivaji Nagar,83,43,Sunny,Wet
+2025-06-04 12:00:00,Swargate,175,45,Rainy,Moderate
+2025-06-04 13:00:00,Wakad,89,61,Sunny,Wet
+2025-06-04 14:00:00,Hinjewadi,109,48,Cloudy,Wet
+2025-06-04 15:00:00,Baner,139,64,Cloudy,Moderate
+2025-06-04 16:00:00,Hinjewadi,99,54,Sunny,Good
+2025-06-04 17:00:00,Baner,182,35,Cloudy,Good
+2025-06-04 18:00:00,Pune Station,205,31,Cloudy,Wet
+2025-06-04 19:00:00,Hinjewadi,277,25,Rainy,Moderate
+2025-06-04 20:00:00,Shivaji Nagar,294,33,Rainy,Wet
+2025-06-04 21:00:00,Swargate,88,44,Cloudy,Moderate
+2025-06-04 22:00:00,Viman Nagar,135,48,Cloudy,Moderate
+2025-06-04 23:00:00,Pune Station,121,38,Rainy,Good
+2025-06-05 00:00:00,Wakad,127,57,Cloudy,Wet
+2025-06-05 01:00:00,Kothrud,172,50,Sunny,Moderate
+2025-06-05 02:00:00,Swargate,138,37,Rainy,Moderate
+2025-06-05 03:00:00,Shivaji Nagar,80,60,Sunny,Wet
+2025-06-05 04:00:00,Aundh,69,34,Sunny,Moderate
+2025-06-05 05:00:00,Pune Station,79,53,Sunny,Wet
+2025-06-05 06:00:00,Swargate,66,30,Rainy,Good
+2025-06-05 07:00:00,Baner,166,19,Cloudy,Good
+2025-06-05 08:00:00,Kothrud,297,15,Sunny,Moderate
+2025-06-05 09:00:00,Swargate,179,33,Cloudy,Moderate
+2025-06-05 10:00:00,Pune Station,269,34,Cloudy,Wet
+2025-06-05 11:00:00,Aundh,180,46,Sunny,Good
+2025-06-05 12:00:00,Viman Nagar,143,59,Cloudy,Good
+2025-06-05 13:00:00,Kothrud,178,53,Rainy,Good
+2025-06-05 14:00:00,Hinjewadi,77,43,Cloudy,Wet
+2025-06-05 15:00:00,Baner,165,62,Cloudy,Wet
+2025-06-05 16:00:00,Kothrud,59,56,Sunny,Wet
+2025-06-05 17:00:00,Shivaji Nagar,150,15,Cloudy,Moderate
+2025-06-05 18:00:00,Hadapsar,177,33,Rainy,Moderate
+2025-06-05 19:00:00,Baner,275,35,Rainy,Wet
+2025-06-05 20:00:00,Hadapsar,216,19,Cloudy,Moderate
+2025-06-05 21:00:00,Aundh,64,30,Sunny,Wet
+2025-06-05 22:00:00,Baner,131,63,Cloudy,Wet
+2025-06-05 23:00:00,Shivaji Nagar,108,56,Cloudy,Good
+2025-06-06 00:00:00,Wakad,97,32,Rainy,Wet
+2025-06-06 01:00:00,Hinjewadi,111,57,Sunny,Good
+2025-06-06 02:00:00,Baner,51,31,Rainy,Moderate
+2025-06-06 03:00:00,Shivaji Nagar,64,32,Sunny,Moderate
+2025-06-06 04:00:00,Swargate,132,33,Rainy,Wet
+2025-06-06 05:00:00,Viman Nagar,94,40,Sunny,Moderate
+2025-06-06 06:00:00,Swargate,161,47,Sunny,Moderate
+2025-06-06 07:00:00,Baner,165,33,Cloudy,Wet
+2025-06-06 08:00:00,Shivaji Nagar,294,29,Cloudy,Wet
+2025-06-06 09:00:00,Hinjewadi,203,24,Sunny,Wet
+2025-06-06 10:00:00,Kothrud,216,18,Cloudy,Good
+2025-06-06 11:00:00,Shivaji Nagar,126,34,Sunny,Good
+2025-06-06 12:00:00,Hinjewadi,114,34,Cloudy,Wet
+2025-06-06 13:00:00,Hinjewadi,71,40,Cloudy,Wet
+2025-06-06 14:00:00,Hadapsar,137,52,Rainy,Moderate
+2025-06-06 15:00:00,Hadapsar,162,64,Sunny,Moderate
+2025-06-06 16:00:00,Swargate,178,47,Cloudy,Good
+2025-06-06 17:00:00,Shivaji Nagar,235,29,Sunny,Good
+2025-06-06 18:00:00,Hinjewadi,213,21,Rainy,Wet
+2025-06-06 19:00:00,Shivaji Nagar,194,29,Cloudy,Wet
+2025-06-06 20:00:00,Kothrud,204,33,Rainy,Moderate
+2025-06-06 21:00:00,Hinjewadi,160,35,Sunny,Moderate
+2025-06-06 22:00:00,Swargate,168,38,Rainy,Good
+2025-06-06 23:00:00,Wakad,134,42,Rainy,Moderate
+2025-06-07 00:00:00,Pune Station,79,42,Rainy,Good
+2025-06-07 01:00:00,Wakad,174,53,Cloudy,Moderate
+2025-06-07 02:00:00,Kothrud,158,51,Rainy,Moderate
+2025-06-07 03:00:00,Hinjewadi,138,56,Cloudy,Wet
+2025-06-07 04:00:00,Shivaji Nagar,54,43,Cloudy,Wet
+2025-06-07 05:00:00,Aundh,109,50,Rainy,Good
+2025-06-07 06:00:00,Aundh,147,52,Cloudy,Good
+2025-06-07 07:00:00,Shivaji Nagar,179,34,Sunny,Moderate
+2025-06-07 08:00:00,Pune Station,185,17,Rainy,Good
+2025-06-07 09:00:00,Baner,258,29,Rainy,Good
+2025-06-07 10:00:00,Baner,212,30,Cloudy,Good
+2025-06-07 11:00:00,Pune Station,177,34,Rainy,Wet
+2025-06-07 12:00:00,Pune Station,159,65,Cloudy,Good
+2025-06-07 13:00:00,Baner,76,33,Sunny,Good
+2025-06-07 14:00:00,Hinjewadi,132,33,Cloudy,Moderate
+2025-06-07 15:00:00,Kothrud,164,46,Cloudy,Good
+2025-06-07 16:00:00,Baner,97,51,Cloudy,Wet
+2025-06-07 17:00:00,Hadapsar,184,28,Rainy,Good
+2025-06-07 18:00:00,Pune Station,163,33,Cloudy,Good
+2025-06-07 19:00:00,Aundh,274,23,Rainy,Moderate
+2025-06-07 20:00:00,Hinjewadi,215,29,Rainy,Good
+2025-06-07 21:00:00,Swargate,134,40,Rainy,Wet
+2025-06-07 22:00:00,Viman Nagar,73,48,Cloudy,Good
+2025-06-07 23:00:00,Wakad,66,60,Rainy,Good
+2025-06-08 00:00:00,Shivaji Nagar,68,44,Rainy,Wet
+2025-06-08 01:00:00,Pune Station,53,41,Cloudy,Good
+2025-06-08 02:00:00,Viman Nagar,70,58,Rainy,Moderate
+2025-06-08 03:00:00,Hadapsar,114,62,Sunny,Wet
+2025-06-08 04:00:00,Swargate,106,49,Cloudy,Good
+2025-06-08 05:00:00,Hinjewadi,142,64,Cloudy,Wet
+2025-06-08 06:00:00,Shivaji Nagar,119,50,Sunny,Wet
+2025-06-08 07:00:00,Kothrud,201,34,Sunny,Wet
+2025-06-08 08:00:00,Hadapsar,274,19,Rainy,Moderate
+2025-06-08 09:00:00,Swargate,172,23,Cloudy,Wet
+2025-06-08 10:00:00,Shivaji Nagar,201,26,Rainy,Moderate
+2025-06-08 11:00:00,Kothrud,126,64,Cloudy,Wet
+2025-06-08 12:00:00,Hadapsar,53,62,Cloudy,Good
+2025-06-08 13:00:00,Aundh,62,43,Rainy,Wet
+2025-06-08 14:00:00,Hadapsar,57,50,Sunny,Good
+2025-06-08 15:00:00,Pune Station,158,45,Cloudy,Wet
+2025-06-08 16:00:00,Kothrud,109,53,Rainy,Wet
+2025-06-08 17:00:00,Hadapsar,196,29,Cloudy,Good
+2025-06-08 18:00:00,Shivaji Nagar,316,30,Sunny,Good
+2025-06-08 19:00:00,Baner,244,22,Rainy,Moderate
+2025-06-08 20:00:00,Aundh,250,33,Cloudy,Moderate
+2025-06-08 21:00:00,Wakad,72,43,Cloudy,Wet
+2025-06-08 22:00:00,Baner,126,51,Sunny,Moderate
+2025-06-08 23:00:00,Hadapsar,72,57,Rainy,Good
+2025-06-09 00:00:00,Kothrud,139,31,Cloudy,Moderate
+2025-06-09 01:00:00,Kothrud,101,42,Cloudy,Good
+2025-06-09 02:00:00,Wakad,54,40,Cloudy,Good
+2025-06-09 03:00:00,Baner,68,63,Sunny,Moderate
+2025-06-09 04:00:00,Aundh,73,61,Rainy,Good
+2025-06-09 05:00:00,Hadapsar,154,51,Sunny,Good
+2025-06-09 06:00:00,Kothrud,60,65,Sunny,Moderate
+2025-06-09 07:00:00,Hadapsar,182,20,Rainy,Moderate
+2025-06-09 08:00:00,Pune Station,302,32,Cloudy,Good
+2025-06-09 09:00:00,Hadapsar,317,23,Sunny,Moderate
+2025-06-09 10:00:00,Swargate,309,33,Cloudy,Good
+2025-06-09 11:00:00,Baner,148,42,Cloudy,Moderate
+2025-06-09 12:00:00,Swargate,72,33,Cloudy,Moderate
+2025-06-09 13:00:00,Hadapsar,69,65,Sunny,Wet
+2025-06-09 14:00:00,Hinjewadi,125,35,Sunny,Moderate
+2025-06-09 15:00:00,Aundh,160,36,Sunny,Wet
+2025-06-09 16:00:00,Hadapsar,154,40,Cloudy,Wet
+2025-06-09 17:00:00,Viman Nagar,320,34,Sunny,Moderate
+2025-06-09 18:00:00,Viman Nagar,158,21,Rainy,Good
+2025-06-09 19:00:00,Pune Station,209,17,Rainy,Good
+2025-06-09 20:00:00,Hinjewadi,208,22,Rainy,Good
+2025-06-09 21:00:00,Kothrud,65,43,Sunny,Wet
+2025-06-09 22:00:00,Shivaji Nagar,96,46,Rainy,Good
+2025-06-09 23:00:00,Hinjewadi,109,57,Rainy,Wet
+2025-06-10 00:00:00,Baner,76,54,Rainy,Good
+2025-06-10 01:00:00,Wakad,112,31,Sunny,Wet
+2025-06-10 02:00:00,Hadapsar,176,57,Rainy,Moderate
+2025-06-10 03:00:00,Pune Station,136,32,Cloudy,Moderate
+2025-06-10 04:00:00,Wakad,165,44,Cloudy,Good
+2025-06-10 05:00:00,Pune Station,146,46,Rainy,Wet
+2025-06-10 06:00:00,Hadapsar,93,43,Cloudy,Good
+2025-06-10 07:00:00,Hadapsar,317,22,Cloudy,Wet
+2025-06-10 08:00:00,Swargate,243,23,Cloudy,Moderate
+2025-06-10 09:00:00,Kothrud,193,28,Cloudy,Wet
+2025-06-10 10:00:00,Viman Nagar,267,23,Sunny,Good
+2025-06-10 11:00:00,Shivaji Nagar,143,45,Rainy,Wet
+2025-06-10 12:00:00,Aundh,73,42,Sunny,Wet
+2025-06-10 13:00:00,Baner,107,43,Cloudy,Wet
+2025-06-10 14:00:00,Baner,107,50,Sunny,Wet
+2025-06-10 15:00:00,Viman Nagar,92,59,Sunny,Moderate
+2025-06-10 16:00:00,Swargate,156,47,Cloudy,Good
+2025-06-10 17:00:00,Swargate,167,29,Rainy,Wet
+2025-06-10 18:00:00,Wakad,204,19,Rainy,Moderate
+2025-06-10 19:00:00,Kothrud,192,33,Cloudy,Wet
+2025-06-10 20:00:00,Pune Station,275,26,Sunny,Wet
+2025-06-10 21:00:00,Hadapsar,87,43,Rainy,Wet
+2025-06-10 22:00:00,Kothrud,87,32,Cloudy,Wet
+2025-06-10 23:00:00,Swargate,97,38,Sunny,Wet
+2025-06-11 00:00:00,Hinjewadi,172,53,Cloudy,Moderate
+2025-06-11 01:00:00,Swargate,124,65,Rainy,Good
+2025-06-11 02:00:00,Swargate,84,64,Sunny,Good
+2025-06-11 03:00:00,Hinjewadi,166,60,Rainy,Wet
+2025-06-11 04:00:00,Viman Nagar,117,61,Rainy,Good
+2025-06-11 05:00:00,Aundh,67,41,Cloudy,Wet
+2025-06-11 06:00:00,Viman Nagar,110,63,Rainy,Moderate
+2025-06-11 07:00:00,Wakad,201,20,Rainy,Moderate
+2025-06-11 08:00:00,Wakad,242,30,Cloudy,Wet
+2025-06-11 09:00:00,Swargate,266,27,Sunny,Moderate
+2025-06-11 10:00:00,Kothrud,295,29,Sunny,Wet
+2025-06-11 11:00:00,Hadapsar,124,46,Rainy,Good
+2025-06-11 12:00:00,Swargate,109,62,Sunny,Good
+2025-06-11 13:00:00,Pune Station,105,58,Sunny,Good
+2025-06-11 14:00:00,Viman Nagar,87,47,Sunny,Wet
+2025-06-11 15:00:00,Swargate,147,46,Cloudy,Wet
+2025-06-11 16:00:00,Kothrud,108,54,Cloudy,Moderate
+2025-06-11 17:00:00,Hadapsar,175,24,Rainy,Wet
+2025-06-11 18:00:00,Aundh,180,33,Cloudy,Wet
+2025-06-11 19:00:00,Pune Station,240,29,Rainy,Wet
+2025-06-11 20:00:00,Aundh,295,21,Cloudy,Good
+2025-06-11 21:00:00,Aundh,58,65,Sunny,Moderate
+2025-06-11 22:00:00,Hinjewadi,140,54,Cloudy,Moderate
+2025-06-11 23:00:00,Aundh,144,60,Cloudy,Moderate
+2025-06-12 00:00:00,Baner,63,46,Sunny,Good
+2025-06-12 01:00:00,Shivaji Nagar,104,61,Sunny,Good
+2025-06-12 02:00:00,Viman Nagar,59,43,Sunny,Moderate
+2025-06-12 03:00:00,Hadapsar,97,59,Cloudy,Wet
+2025-06-12 04:00:00,Hadapsar,104,60,Rainy,Wet
+2025-06-12 05:00:00,Aundh,136,52,Cloudy,Wet
+2025-06-12 06:00:00,Baner,144,36,Sunny,Wet
+2025-06-12 07:00:00,Wakad,177,29,Cloudy,Wet
+2025-06-12 08:00:00,Hinjewadi,238,35,Rainy,Good
+2025-06-12 09:00:00,Hadapsar,278,21,Cloudy,Moderate
+2025-06-12 10:00:00,Hinjewadi,172,15,Rainy,Moderate
+2025-06-12 11:00:00,Viman Nagar,95,46,Sunny,Moderate
+2025-06-12 12:00:00,Swargate,75,52,Rainy,Moderate
+2025-06-12 13:00:00,Hadapsar,138,47,Cloudy,Good
+2025-06-12 14:00:00,Pune Station,66,59,Sunny,Wet
+2025-06-12 15:00:00,Viman Nagar,85,39,Cloudy,Good
+2025-06-12 16:00:00,Aundh,79,54,Cloudy,Good
+2025-06-12 17:00:00,Aundh,268,27,Cloudy,Good
+2025-06-12 18:00:00,Kothrud,209,29,Sunny,Wet
+2025-06-12 19:00:00,Kothrud,254,28,Rainy,Wet
+2025-06-12 20:00:00,Hadapsar,287,34,Cloudy,Wet
+2025-06-12 21:00:00,Wakad,178,43,Cloudy,Good
+2025-06-12 22:00:00,Baner,147,39,Rainy,Good
+2025-06-12 23:00:00,Shivaji Nagar,164,61,Sunny,Moderate
+2025-06-13 00:00:00,Aundh,115,34,Cloudy,Good
+2025-06-13 01:00:00,Hinjewadi,67,36,Sunny,Wet
+2025-06-13 02:00:00,Pune Station,95,39,Cloudy,Good
+2025-06-13 03:00:00,Swargate,118,50,Sunny,Moderate
+2025-06-13 04:00:00,Wakad,125,39,Rainy,Moderate
+2025-06-13 05:00:00,Hadapsar,164,30,Sunny,Wet
+2025-06-13 06:00:00,Swargate,135,50,Cloudy,Moderate
+2025-06-13 07:00:00,Kothrud,238,15,Rainy,Good
+2025-06-13 08:00:00,Viman Nagar,168,25,Sunny,Moderate
+2025-06-13 09:00:00,Viman Nagar,303,17,Rainy,Moderate
+2025-06-13 10:00:00,Kothrud,272,22,Sunny,Wet
+2025-06-13 11:00:00,Shivaji Nagar,69,35,Rainy,Moderate
+2025-06-13 12:00:00,Shivaji Nagar,67,40,Cloudy,Good
+2025-06-13 13:00:00,Baner,78,42,Cloudy,Moderate
+2025-06-13 14:00:00,Swargate,56,44,Cloudy,Moderate
+2025-06-13 15:00:00,Viman Nagar,143,63,Rainy,Moderate
+2025-06-13 16:00:00,Kothrud,78,65,Sunny,Good
+2025-06-13 17:00:00,Kothrud,306,20,Cloudy,Moderate
+2025-06-13 18:00:00,Viman Nagar,313,15,Rainy,Good
+2025-06-13 19:00:00,Baner,257,23,Rainy,Good
+2025-06-13 20:00:00,Kothrud,261,35,Rainy,Moderate
+2025-06-13 21:00:00,Hadapsar,148,35,Rainy,Wet
+2025-06-13 22:00:00,Baner,90,61,Sunny,Moderate
+2025-06-13 23:00:00,Swargate,87,54,Cloudy,Moderate
+2025-06-14 00:00:00,Wakad,111,47,Rainy,Moderate
+2025-06-14 01:00:00,Kothrud,127,38,Rainy,Wet
+2025-06-14 02:00:00,Wakad,100,38,Sunny,Wet
+2025-06-14 03:00:00,Aundh,157,45,Sunny,Wet
+2025-06-14 04:00:00,Swargate,159,51,Cloudy,Wet
+2025-06-14 05:00:00,Hinjewadi,57,33,Rainy,Wet
+2025-06-14 06:00:00,Viman Nagar,139,38,Cloudy,Wet
+2025-06-14 07:00:00,Hinjewadi,161,25,Rainy,Wet
+2025-06-14 08:00:00,Hadapsar,220,22,Cloudy,Good
+2025-06-14 09:00:00,Shivaji Nagar,206,15,Sunny,Moderate
+2025-06-14 10:00:00,Swargate,203,22,Sunny,Moderate
+2025-06-14 11:00:00,Viman Nagar,120,37,Rainy,Good
+2025-06-14 12:00:00,Hadapsar,106,58,Cloudy,Wet
+2025-06-14 13:00:00,Pune Station,132,59,Sunny,Moderate
+2025-06-14 14:00:00,Hinjewadi,89,52,Cloudy,Moderate
+2025-06-14 15:00:00,Wakad,122,57,Rainy,Wet
+2025-06-14 16:00:00,Wakad,134,43,Cloudy,Good
+2025-06-14 17:00:00,Wakad,277,17,Cloudy,Wet
+2025-06-14 18:00:00,Kothrud,153,19,Sunny,Good
+2025-06-14 19:00:00,Hadapsar,251,18,Sunny,Wet
+2025-06-14 20:00:00,Baner,231,23,Rainy,Good
+2025-06-14 21:00:00,Kothrud,69,65,Sunny,Good
+2025-06-14 22:00:00,Hinjewadi,108,48,Rainy,Good
+2025-06-14 23:00:00,Wakad,175,43,Cloudy,Moderate
+2025-06-15 00:00:00,Hadapsar,169,46,Rainy,Wet
+2025-06-15 01:00:00,Swargate,156,44,Sunny,Good
+2025-06-15 02:00:00,Wakad,86,50,Rainy,Good
+2025-06-15 03:00:00,Aundh,66,48,Sunny,Good
+2025-06-15 04:00:00,Baner,102,45,Rainy,Wet
+2025-06-15 05:00:00,Viman Nagar,141,44,Sunny,Wet
+2025-06-15 06:00:00,Kothrud,97,40,Cloudy,Wet
+2025-06-15 07:00:00,Wakad,230,28,Rainy,Good
+2025-06-15 08:00:00,Baner,310,31,Cloudy,Moderate
+2025-06-15 09:00:00,Wakad,193,28,Cloudy,Good
+2025-06-15 10:00:00,Hinjewadi,177,34,Sunny,Wet
+2025-06-15 11:00:00,Swargate,84,49,Cloudy,Good
+2025-06-15 12:00:00,Viman Nagar,177,46,Cloudy,Good
+2025-06-15 13:00:00,Swargate,159,60,Rainy,Good
+2025-06-15 14:00:00,Aundh,66,60,Cloudy,Good
+2025-06-15 15:00:00,Hadapsar,123,52,Cloudy,Wet
+2025-06-15 16:00:00,Aundh,70,47,Cloudy,Good
+2025-06-15 17:00:00,Hinjewadi,194,34,Sunny,Moderate
+2025-06-15 18:00:00,Wakad,173,29,Sunny,Moderate
+2025-06-15 19:00:00,Hadapsar,234,22,Cloudy,Moderate
+2025-06-15 20:00:00,Swargate,174,33,Rainy,Wet
+2025-06-15 21:00:00,Hinjewadi,66,59,Rainy,Moderate
+2025-06-15 22:00:00,Viman Nagar,169,46,Sunny,Good
+2025-06-15 23:00:00,Kothrud,145,52,Cloudy,Good
+2025-06-16 00:00:00,Swargate,104,64,Sunny,Moderate
+2025-06-16 01:00:00,Viman Nagar,125,40,Cloudy,Good
+2025-06-16 02:00:00,Baner,88,58,Sunny,Moderate
+2025-06-16 03:00:00,Hadapsar,76,50,Rainy,Wet
+2025-06-16 04:00:00,Aundh,136,61,Cloudy,Good
+2025-06-16 05:00:00,Viman Nagar,83,38,Cloudy,Good
+2025-06-16 06:00:00,Shivaji Nagar,128,30,Cloudy,Moderate
+2025-06-16 07:00:00,Pune Station,271,16,Cloudy,Wet
+2025-06-16 08:00:00,Viman Nagar,199,28,Rainy,Good
+2025-06-16 09:00:00,Pune Station,195,28,Rainy,Moderate
+2025-06-16 10:00:00,Viman Nagar,160,27,Sunny,Moderate
+2025-06-16 11:00:00,Wakad,133,36,Rainy,Moderate
+2025-06-16 12:00:00,Viman Nagar,108,64,Cloudy,Moderate
+2025-06-16 13:00:00,Hadapsar,100,36,Sunny,Moderate
+2025-06-16 14:00:00,Kothrud,96,39,Sunny,Moderate
+2025-06-16 15:00:00,Swargate,81,46,Cloudy,Moderate
+2025-06-16 16:00:00,Viman Nagar,106,41,Cloudy,Good
+2025-06-16 17:00:00,Wakad,184,28,Cloudy,Moderate
+2025-06-16 18:00:00,Shivaji Nagar,303,24,Sunny,Wet
+2025-06-16 19:00:00,Pune Station,176,19,Cloudy,Moderate
+2025-06-16 20:00:00,Shivaji Nagar,302,33,Rainy,Moderate
+2025-06-16 21:00:00,Hinjewadi,89,31,Sunny,Wet
+2025-06-16 22:00:00,Swargate,101,42,Rainy,Moderate
+2025-06-16 23:00:00,Hadapsar,87,45,Cloudy,Moderate
+2025-06-17 00:00:00,Baner,94,59,Rainy,Good
+2025-06-17 01:00:00,Aundh,69,60,Sunny,Wet
+2025-06-17 02:00:00,Pune Station,74,45,Sunny,Moderate
+2025-06-17 03:00:00,Viman Nagar,160,54,Rainy,Wet
+2025-06-17 04:00:00,Viman Nagar,180,45,Sunny,Wet
+2025-06-17 05:00:00,Pune Station,154,40,Rainy,Good
+2025-06-17 06:00:00,Baner,178,60,Rainy,Good
+2025-06-17 07:00:00,Aundh,192,31,Cloudy,Good
+2025-06-17 08:00:00,Kothrud,248,34,Sunny,Good
+2025-06-17 09:00:00,Kothrud,188,25,Rainy,Good
+2025-06-17 10:00:00,Hadapsar,270,21,Sunny,Moderate
+2025-06-17 11:00:00,Viman Nagar,152,32,Sunny,Moderate
+2025-06-17 12:00:00,Pune Station,172,59,Sunny,Moderate
+2025-06-17 13:00:00,Aundh,115,44,Rainy,Moderate
+2025-06-17 14:00:00,Pune Station,76,42,Rainy,Moderate
+2025-06-17 15:00:00,Kothrud,103,58,Cloudy,Wet
+2025-06-17 16:00:00,Shivaji Nagar,143,50,Sunny,Good
+2025-06-17 17:00:00,Kothrud,219,27,Sunny,Good
+2025-06-17 18:00:00,Viman Nagar,228,34,Rainy,Moderate
+2025-06-17 19:00:00,Hinjewadi,269,26,Sunny,Good
+2025-06-17 20:00:00,Wakad,185,29,Cloudy,Good
+2025-06-17 21:00:00,Hadapsar,112,65,Cloudy,Moderate
+2025-06-17 22:00:00,Aundh,123,49,Rainy,Good
+2025-06-17 23:00:00,Hadapsar,78,35,Sunny,Moderate
+2025-06-18 00:00:00,Baner,133,30,Rainy,Wet
+2025-06-18 01:00:00,Kothrud,100,55,Cloudy,Wet
+2025-06-18 02:00:00,Hadapsar,58,44,Cloudy,Wet
+2025-06-18 03:00:00,Hadapsar,86,50,Cloudy,Wet
+2025-06-18 04:00:00,Kothrud,118,57,Rainy,Moderate
+2025-06-18 05:00:00,Baner,107,46,Cloudy,Moderate
+2025-06-18 06:00:00,Aundh,122,63,Sunny,Wet
+2025-06-18 07:00:00,Kothrud,158,26,Sunny,Moderate
+2025-06-18 08:00:00,Kothrud,176,33,Sunny,Wet
+2025-06-18 09:00:00,Aundh,256,35,Sunny,Moderate
+2025-06-18 10:00:00,Hadapsar,293,29,Cloudy,Moderate
+2025-06-18 11:00:00,Baner,153,48,Sunny,Good
+2025-06-18 12:00:00,Swargate,166,32,Cloudy,Moderate
+2025-06-18 13:00:00,Pune Station,85,65,Cloudy,Good
+2025-06-18 14:00:00,Shivaji Nagar,74,32,Rainy,Good
+2025-06-18 15:00:00,Hinjewadi,144,38,Cloudy,Good
+2025-06-18 16:00:00,Shivaji Nagar,117,58,Sunny,Wet
+2025-06-18 17:00:00,Shivaji Nagar,269,16,Cloudy,Moderate
+2025-06-18 18:00:00,Viman Nagar,154,35,Cloudy,Wet
+2025-06-18 19:00:00,Hinjewadi,248,31,Cloudy,Moderate
+2025-06-18 20:00:00,Hinjewadi,213,24,Cloudy,Good
+2025-06-18 21:00:00,Kothrud,120,32,Rainy,Moderate
+2025-06-18 22:00:00,Hinjewadi,160,30,Rainy,Moderate
+2025-06-18 23:00:00,Baner,144,37,Cloudy,Good
+2025-06-19 00:00:00,Hadapsar,110,37,Rainy,Wet
+2025-06-19 01:00:00,Baner,55,39,Sunny,Good
+2025-06-19 02:00:00,Viman Nagar,167,35,Cloudy,Wet
+2025-06-19 03:00:00,Hadapsar,108,31,Cloudy,Good
+2025-06-19 04:00:00,Hinjewadi,166,55,Cloudy,Wet
+2025-06-19 05:00:00,Hadapsar,123,39,Sunny,Good
+2025-06-19 06:00:00,Pune Station,95,43,Rainy,Good
+2025-06-19 07:00:00,Wakad,181,35,Sunny,Good
+2025-06-19 08:00:00,Baner,275,23,Sunny,Good
+2025-06-19 09:00:00,Aundh,168,25,Sunny,Wet
+2025-06-19 10:00:00,Shivaji Nagar,233,27,Cloudy,Wet
+2025-06-19 11:00:00,Shivaji Nagar,180,46,Cloudy,Good
+2025-06-19 12:00:00,Aundh,164,40,Cloudy,Moderate
+2025-06-19 13:00:00,Kothrud,174,33,Cloudy,Moderate
+2025-06-19 14:00:00,Aundh,146,34,Cloudy,Good
+2025-06-19 15:00:00,Wakad,81,52,Cloudy,Wet
+2025-06-19 16:00:00,Swargate,176,45,Cloudy,Good
+2025-06-19 17:00:00,Baner,227,32,Cloudy,Wet
+2025-06-19 18:00:00,Pune Station,233,29,Cloudy,Wet
+2025-06-19 19:00:00,Pune Station,200,28,Sunny,Good
+2025-06-19 20:00:00,Hadapsar,203,31,Cloudy,Good
+2025-06-19 21:00:00,Hinjewadi,78,36,Rainy,Moderate
+2025-06-19 22:00:00,Hadapsar,117,46,Rainy,Wet
+2025-06-19 23:00:00,Baner,151,55,Cloudy,Moderate
+2025-06-20 00:00:00,Shivaji Nagar,150,31,Cloudy,Moderate
+2025-06-20 01:00:00,Hinjewadi,178,41,Cloudy,Wet
+2025-06-20 02:00:00,Pune Station,160,48,Sunny,Wet
+2025-06-20 03:00:00,Kothrud,73,43,Rainy,Good
+2025-06-20 04:00:00,Baner,50,34,Sunny,Wet
+2025-06-20 05:00:00,Swargate,178,49,Rainy,Moderate
+2025-06-20 06:00:00,Shivaji Nagar,60,54,Sunny,Moderate
+2025-06-20 07:00:00,Viman Nagar,317,29,Cloudy,Wet
+2025-06-20 08:00:00,Viman Nagar,260,17,Rainy,Good
+2025-06-20 09:00:00,Pune Station,239,24,Rainy,Good
+2025-06-20 10:00:00,Shivaji Nagar,254,34,Cloudy,Moderate
+2025-06-20 11:00:00,Swargate,102,47,Rainy,Wet
+2025-06-20 12:00:00,Wakad,127,37,Rainy,Good
+2025-06-20 13:00:00,Baner,110,46,Cloudy,Good
+2025-06-20 14:00:00,Kothrud,128,48,Cloudy,Moderate
+2025-06-20 15:00:00,Kothrud,180,48,Rainy,Wet
+2025-06-20 16:00:00,Viman Nagar,153,63,Rainy,Good
+2025-06-20 17:00:00,Shivaji Nagar,223,19,Rainy,Good
+2025-06-20 18:00:00,Aundh,265,22,Cloudy,Good
+2025-06-20 19:00:00,Wakad,194,20,Rainy,Wet
+2025-06-20 20:00:00,Baner,313,26,Rainy,Wet
+2025-06-20 21:00:00,Hinjewadi,164,34,Sunny,Good
+2025-06-20 22:00:00,Shivaji Nagar,176,52,Rainy,Moderate
+2025-06-20 23:00:00,Kothrud,106,57,Rainy,Wet
+2025-06-21 00:00:00,Hinjewadi,107,35,Sunny,Good
+2025-06-21 01:00:00,Swargate,66,65,Cloudy,Good
+2025-06-21 02:00:00,Viman Nagar,167,64,Rainy,Moderate
+2025-06-21 03:00:00,Kothrud,90,46,Cloudy,Wet
+2025-06-21 04:00:00,Aundh,162,50,Rainy,Wet
+2025-06-21 05:00:00,Viman Nagar,117,65,Rainy,Wet
+2025-06-21 06:00:00,Aundh,173,38,Cloudy,Moderate
+2025-06-21 07:00:00,Hinjewadi,291,27,Sunny,Wet
+2025-06-21 08:00:00,Hadapsar,207,22,Sunny,Good
+2025-06-21 09:00:00,Swargate,177,19,Sunny,Wet
+2025-06-21 10:00:00,Aundh,309,18,Sunny,Moderate
+2025-06-21 11:00:00,Kothrud,83,33,Sunny,Moderate
+2025-06-21 12:00:00,Aundh,98,47,Cloudy,Good
+2025-06-21 13:00:00,Wakad,74,37,Cloudy,Wet
+2025-06-21 14:00:00,Pune Station,106,31,Cloudy,Moderate
+2025-06-21 15:00:00,Aundh,148,38,Sunny,Moderate
+2025-06-21 16:00:00,Aundh,94,49,Cloudy,Wet
+2025-06-21 17:00:00,Shivaji Nagar,242,19,Rainy,Good
+2025-06-21 18:00:00,Viman Nagar,227,28,Cloudy,Good
+2025-06-21 19:00:00,Wakad,298,25,Cloudy,Good
+2025-06-21 20:00:00,Kothrud,309,28,Rainy,Good
+2025-06-21 21:00:00,Swargate,157,41,Rainy,Wet
+2025-06-21 22:00:00,Hinjewadi,177,48,Cloudy,Moderate
+2025-06-21 23:00:00,Hinjewadi,150,30,Rainy,Wet
+2025-06-22 00:00:00,Pune Station,122,51,Cloudy,Moderate
+2025-06-22 01:00:00,Kothrud,148,56,Cloudy,Good
+2025-06-22 02:00:00,Swargate,116,50,Rainy,Good
+2025-06-22 03:00:00,Hadapsar,88,48,Cloudy,Good
+2025-06-22 04:00:00,Shivaji Nagar,113,36,Sunny,Moderate
+2025-06-22 05:00:00,Hadapsar,148,49,Rainy,Good
+2025-06-22 06:00:00,Shivaji Nagar,174,43,Rainy,Good
+2025-06-22 07:00:00,Aundh,265,24,Sunny,Good
+2025-06-22 08:00:00,Aundh,303,21,Rainy,Moderate
+2025-06-22 09:00:00,Aundh,175,15,Cloudy,Good
+2025-06-22 10:00:00,Kothrud,289,28,Cloudy,Good
+2025-06-22 11:00:00,Aundh,98,64,Rainy,Wet
+2025-06-22 12:00:00,Shivaji Nagar,139,57,Cloudy,Good
+2025-06-22 13:00:00,Swargate,165,44,Rainy,Good
+2025-06-22 14:00:00,Hadapsar,101,57,Cloudy,Wet
+2025-06-22 15:00:00,Swargate,142,57,Sunny,Moderate
+2025-06-22 16:00:00,Shivaji Nagar,87,63,Sunny,Wet
+2025-06-22 17:00:00,Wakad,156,16,Sunny,Moderate
+2025-06-22 18:00:00,Aundh,254,35,Cloudy,Wet
+2025-06-22 19:00:00,Shivaji Nagar,170,29,Cloudy,Wet
+2025-06-22 20:00:00,Hadapsar,171,26,Cloudy,Good
+2025-06-22 21:00:00,Hinjewadi,94,37,Sunny,Wet
+2025-06-22 22:00:00,Swargate,162,45,Rainy,Wet
+2025-06-22 23:00:00,Hinjewadi,162,39,Rainy,Wet
+2025-06-23 00:00:00,Aundh,169,64,Rainy,Moderate
+2025-06-23 01:00:00,Wakad,143,53,Cloudy,Wet
+2025-06-23 02:00:00,Kothrud,161,54,Rainy,Good
+2025-06-23 03:00:00,Viman Nagar,144,60,Cloudy,Wet
+2025-06-23 04:00:00,Wakad,159,30,Rainy,Moderate
+2025-06-23 05:00:00,Hinjewadi,101,61,Rainy,Wet
+2025-06-23 06:00:00,Kothrud,179,33,Sunny,Moderate
+2025-06-23 07:00:00,Viman Nagar,304,28,Rainy,Good
+2025-06-23 08:00:00,Kothrud,272,31,Sunny,Wet
+2025-06-23 09:00:00,Shivaji Nagar,197,30,Cloudy,Wet
+2025-06-23 10:00:00,Wakad,266,24,Cloudy,Moderate
+2025-06-23 11:00:00,Shivaji Nagar,132,36,Sunny,Wet
+2025-06-23 12:00:00,Aundh,94,31,Sunny,Wet
+2025-06-23 13:00:00,Viman Nagar,54,47,Sunny,Moderate
+2025-06-23 14:00:00,Kothrud,124,43,Sunny,Good
+2025-06-23 15:00:00,Viman Nagar,85,45,Cloudy,Moderate
+2025-06-23 16:00:00,Baner,126,33,Rainy,Moderate
+2025-06-23 17:00:00,Shivaji Nagar,211,30,Cloudy,Good
+2025-06-23 18:00:00,Hadapsar,173,21,Rainy,Wet
+2025-06-23 19:00:00,Viman Nagar,155,22,Sunny,Wet
+2025-06-23 20:00:00,Hinjewadi,158,19,Sunny,Wet
+2025-06-23 21:00:00,Hadapsar,162,33,Sunny,Moderate
+2025-06-23 22:00:00,Wakad,178,54,Sunny,Good
+2025-06-23 23:00:00,Baner,164,32,Rainy,Moderate
+2025-06-24 00:00:00,Hadapsar,119,49,Rainy,Good
+2025-06-24 01:00:00,Hinjewadi,67,63,Rainy,Wet
+2025-06-24 02:00:00,Pune Station,169,36,Cloudy,Wet
+2025-06-24 03:00:00,Swargate,83,32,Cloudy,Good
+2025-06-24 04:00:00,Wakad,167,44,Rainy,Good
+2025-06-24 05:00:00,Shivaji Nagar,159,31,Cloudy,Wet
+2025-06-24 06:00:00,Shivaji Nagar,93,41,Rainy,Good
+2025-06-24 07:00:00,Aundh,255,21,Sunny,Wet
+2025-06-24 08:00:00,Baner,224,32,Sunny,Good
+2025-06-24 09:00:00,Viman Nagar,223,27,Sunny,Moderate
+2025-06-24 10:00:00,Viman Nagar,320,29,Cloudy,Wet
+2025-06-24 11:00:00,Pune Station,77,36,Sunny,Moderate
+2025-06-24 12:00:00,Hinjewadi,79,32,Cloudy,Wet
+2025-06-24 13:00:00,Pune Station,108,62,Cloudy,Good
+2025-06-24 14:00:00,Baner,99,40,Rainy,Moderate
+2025-06-24 15:00:00,Baner,96,62,Sunny,Wet
+2025-06-24 16:00:00,Kothrud,168,42,Rainy,Good
+2025-06-24 17:00:00,Pune Station,207,35,Rainy,Good
+2025-06-24 18:00:00,Baner,214,34,Sunny,Moderate
+2025-06-24 19:00:00,Aundh,153,24,Cloudy,Good
+2025-06-24 20:00:00,Viman Nagar,320,17,Rainy,Wet
+2025-06-24 21:00:00,Swargate,99,64,Rainy,Wet
+2025-06-24 22:00:00,Wakad,65,41,Rainy,Wet
+2025-06-24 23:00:00,Aundh,89,40,Cloudy,Wet
+2025-06-25 00:00:00,Shivaji Nagar,126,40,Sunny,Moderate
+2025-06-25 01:00:00,Shivaji Nagar,105,50,Rainy,Good
+2025-06-25 02:00:00,Wakad,84,59,Cloudy,Good
+2025-06-25 03:00:00,Shivaji Nagar,135,35,Rainy,Wet
+2025-06-25 04:00:00,Viman Nagar,117,40,Rainy,Moderate
+2025-06-25 05:00:00,Viman Nagar,101,57,Rainy,Wet
+2025-06-25 06:00:00,Kothrud,161,64,Cloudy,Good
+2025-06-25 07:00:00,Wakad,287,30,Sunny,Moderate
+2025-06-25 08:00:00,Kothrud,239,32,Cloudy,Wet
+2025-06-25 09:00:00,Aundh,221,32,Rainy,Moderate
+2025-06-25 10:00:00,Hadapsar,234,26,Cloudy,Good
+2025-06-25 11:00:00,Pune Station,67,55,Sunny,Good
+2025-06-25 12:00:00,Kothrud,56,54,Sunny,Wet
+2025-06-25 13:00:00,Wakad,61,60,Cloudy,Moderate
+2025-06-25 14:00:00,Hinjewadi,133,58,Sunny,Good
+2025-06-25 15:00:00,Hadapsar,146,57,Cloudy,Good
+2025-06-25 16:00:00,Pune Station,109,51,Rainy,Wet
+2025-06-25 17:00:00,Pune Station,188,19,Rainy,Wet
+2025-06-25 18:00:00,Shivaji Nagar,238,22,Sunny,Moderate
+2025-06-25 19:00:00,Hinjewadi,209,34,Rainy,Moderate
+2025-06-25 20:00:00,Baner,281,19,Cloudy,Moderate
+2025-06-25 21:00:00,Hadapsar,68,47,Cloudy,Good
+2025-06-25 22:00:00,Hinjewadi,120,38,Rainy,Moderate
+2025-06-25 23:00:00,Pune Station,100,45,Sunny,Good
